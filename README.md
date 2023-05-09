@@ -6,7 +6,7 @@
   <!--<img height="160em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomews&layout=compact&langs_count=7&theme=dark"/>-->
 </div>
 <div style="display: inline_block" align="center"><br>
-  
+  <h6>Desenvolvedor:</h6>
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   
  
@@ -38,7 +38,7 @@
   
  ##
   
-  <div> 
+  <div align="center"> 
   <a href="https://www.linkedin.com/in/gustavomews" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gustavofariasmews@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gustavomews" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
