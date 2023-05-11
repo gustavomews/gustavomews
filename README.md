@@ -34,6 +34,7 @@
        
  <img align="center" alt="Amazon Web Services" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
           
+  <img align="center" alt="Cobol" height="30" width="30" src="https://logodix.com/logo/2100309.png" />
 </div>
   
  ##
